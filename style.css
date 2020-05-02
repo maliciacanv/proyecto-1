@@ -29,7 +29,9 @@ aside .container {
 }
 
 .container p {
-    font-size: 16px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 500;
+    background: #bbb;
+    color: green;
 }
